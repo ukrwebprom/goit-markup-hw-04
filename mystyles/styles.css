@@ -235,8 +235,7 @@ button:focus {
   margin: 0;
 }
 
-.why-we .item,
-.who-we-are .item {
+.why-we .item {
   flex-basis: 270px;
 }
 .why-we .item::before{
